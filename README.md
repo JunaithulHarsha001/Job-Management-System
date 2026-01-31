@@ -43,5 +43,4 @@ This project focuses on **backend architecture, authentication, authorization, a
 
 ---
 
-## 📂 Project Structure (simplified)
 
